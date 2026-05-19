@@ -5,7 +5,7 @@ Implementation of the Transformer architecture from "Attention Is All You Need" 
 ---
 ## 🔗 Project Resources
 
-* **📊 Weights & Biases:** [Interactive Experiment Tracking & Training Report](https://wandb.ai/mail2rahulghosh007-indian-institute-of-technology-madras/da6401_a3/reports/Implementing-a-Transformer-for-Machine-Translation--VmlldzoxNjkxNjk1Ng?accessToken=ln8xb27sij18r9cptcqahdthsf36wleyz6d0iiuwx7qqvzbbwvtfvjo6ctzxnkar)
+* **📊 Weights & Biases:** (https://wandb.ai/mail2rahulghosh007-indian-institute-of-technology-madras/da6401_a3/reports/Implementing-a-Transformer-for-Machine-Translation--VmlldzoxNjkxNjk1Ng?accessToken=ln8xb27sij18r9cptcqahdthsf36wleyz6d0iiuwx7qqvzbbwvtfvjo6ctzxnkar)
 * **💻 GitHub Source:** (https://github.com/mail2rahulghosh007-coder/da6401_assignment3)
 ## Model Architecture
 
