@@ -3,7 +3,8 @@
 Implementation of the Transformer architecture from "Attention Is All You Need" trained on the Multi30k dataset for German→English neural machine translation.
 
 ---
-
+## WANDB REPORT LINK :- https://wandb.ai/mail2rahulghosh007-indian-institute-of-technology-madras/da6401_a3/reports/Implementing-a-Transformer-for-Machine-Translation--VmlldzoxNjkxNjk1Ng?accessToken=ln8xb27sij18r9cptcqahdthsf36wleyz6d0iiuwx7qqvzbbwvtfvjo6ctzxnkar
+## Github Repo Link:-https://github.com/mail2rahulghosh007-coder/da6401_assignment3
 ## Model Architecture
 
 The model follows the original Transformer paper with the following configuration:
