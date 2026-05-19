@@ -66,7 +66,7 @@ The best checkpoint is saved based on **validation BLEU score**, not validation 
 
 ## Project Structure
 
-```text
+
 model.py        # Full Transformer architecture (MHA, encoder, decoder, PE, masks)
 train.py        # Training loop and all 5 experiment runners
 dataset.py      # Multi30k data loading, vocabulary building, DataLoader
